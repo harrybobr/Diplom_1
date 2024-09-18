@@ -43,27 +43,14 @@ mvn jacoco:report
 ### Jenkins CI/CD
 Для дополнительной практики я также настроил облачный Jenkins, который позволяет запускать тесты удалённо.
 
-- **Jenkins URL:** [Jenkins Instance](http://66.151.32.201:8081/)
+- **Jenkins URL:** [Jenkins Instance](http://146.0.79.56:8081/)
 - **Логин:** `test`
-- **Пароль:** `^x1!RnlsMUmU`
+- **Пароль:** `H8K*UKC7erXZ&G`
 
 <p align="right">
   <a href="#top">back to top</a>
 </p>
 
-### Установка проекта
-1. Клонируй репозиторий:
-   ```bash
-   git clone <ссылка-на-репозиторий>
-   ```
-2. Установи зависимости с помощью Maven:
-   ```bash
-   mvn clean install
-   ```
-3. Запусти тесты:
-   ```bash
-   mvn test
-   ```
 
 ### Оценка проекта
 Проект соответствует следующим критериям:
